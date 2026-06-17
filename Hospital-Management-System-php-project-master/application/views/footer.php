@@ -6,7 +6,7 @@
         <!-- footer content -->
         <footer>
           <div class="pull-right">
-            Developed By <a href="https://www.upwork.com/o/profiles/users/_~01e2fb69b715750273/">Md Rukon Shekh</a>
+            Developed By <a href="">GIGOWORK INNOVATIONS Pvt. Ltd.</a>
           </div>
           <div class="clearfix"></div>
         </footer>
